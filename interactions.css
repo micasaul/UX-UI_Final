@@ -1,0 +1,41 @@
+ button:hover{
+    cursor: pointer;
+ }
+ .nav-bar a:hover{
+    text-decoration: underline;
+    text-underline-offset: 2.8px;
+ }
+ #signup:hover{
+    border: solid 1px #cea561;
+    background-color: #987b4c;
+    color: #493e2b;
+ }
+ .grooming button:hover{
+    border: solid 1px #cea561;
+    background-color: #9d8051;
+    color: #4b402d;
+ }
+ #wedding-package:hover{
+    border: solid 1px #cea561;
+    background-color: #9d8051;
+    color: #4b402d;
+ }
+ .horarios button:hover{
+    background-color: #cea561;
+    color: #151515;
+ }
+ .inputs input:hover{
+    background-color: #cea561;
+    color: #151515;
+    opacity: 100%;
+ }
+ #book:hover{
+    border: solid 1px #cea561;
+    background-color: #96794a;
+    color: #362e23;
+ }
+ .main-signup button:hover{
+    border: solid 1px #cea561;
+    background-color: #96794a;
+    color: #362e23;
+ }
